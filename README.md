@@ -10,7 +10,9 @@ ______________
     <div align="center">
       <img 
         src="https://img.icons8.com/clouds/1200/windows-10.jpg"
-        alt="" />
+        alt=""
+        width="60%" 
+        height="60%" />
     </div>
   </body>
 </html>
