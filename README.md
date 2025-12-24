@@ -5,19 +5,25 @@ ______________
 <!DOCTYPE html>
 <html>
   <head>
-  <style type="text/css">
-  p.fig {
-    text-align: center;
-  }
-  </style>
+  <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        img {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
   </head>
   <body>
     <p class="fig">
       <img 
         src="https://img.icons8.com/clouds/1200/windows-10.jpg"
-        alt=""
-        wight="50%"
-        height="50%" />
+        alt="" />
     </p>
   </body>
 </html>
